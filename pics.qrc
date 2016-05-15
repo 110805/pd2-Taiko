@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>images.jpg</file>
+        <file>bg_clear.png</file>
+        <file>red small.png</file>
+        <file>mtaikoflash_blue.png</file>
+        <file>blue small.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../Desktop/程式設計二/img/下載.png</file>
+    </qresource>
+</RCC>
